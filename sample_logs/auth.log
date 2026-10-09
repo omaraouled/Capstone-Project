@@ -1,0 +1,7 @@
+Sep 26 00:10:15 server01 sshd[1234]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Sep 26 00:11:01 server01 sshd[1235]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Sep 26 00:11:24 server01 sshd[1236]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Sep 26 00:12:02 server01 sshd[1237]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Sep 26 00:12:45 server01 sshd[1238]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Sep 26 00:13:05 server01 sshd[1239]: Accepted publickey for admin from 192.168.1.50 port 22 ssh2
+Sep 26 00:14:20 server01 sudo[1240]: user : COMMAND=/usr/bin/nc -l 4444
